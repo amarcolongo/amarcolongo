@@ -18,13 +18,13 @@ Built a regression model to analyze key factors affecting Bitcoin price.
 Integrated statistical findings into a cohesive business intelligence strategy.
 **Tools:** Python, Jupyter Notebook, Regression Analysis.
 
-### 🤖 [NLP System Design](https://github.com/amarcolongo/nlp-system)
+### 🤖 [NLP System Design] (https://github.com/amarcolongo/D213-Task-2)
 **Goal:** Automated the extraction of insights from unstructured, qualitative data using Deep Learning.
 Implemented an end-to-end NLP pipeline for text classification using TensorFlow 2.0.
 Deployed models to extract actionable insights from complex qualitative datasets.
 **Tools:** TensorFlow 2.0, Python, Natural Language Processing.
 
-### 📊 [Data Mining & SQL Reporting](https://github.com/amarcolongo/market-analysis)
+### 📊 [Data Mining & SQL Reporting] (https://github.com/amarcolongo/NVM2-TASK-2-PREDICTIVE-ANALYSIS/tree/main)
 **Goal:** Leveraged large-scale data to drive high-level market strategy.
 Performed advanced market analysis to identify trends and growth opportunities.
 Produced SQL-driven reports designed to inform and influence business strategy.
