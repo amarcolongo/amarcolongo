@@ -12,7 +12,7 @@
 
 ## 🚀 Featured Projects
 
-### 🪙 [Bitcoin Price Predictor](https://github.com/amarcolongo/Capstone)
+### 🪙 [Bitcoin Price Predictor] (https://github.com/amarcolongo/Capstone)
 **Goal:** Developed a predictive framework to understand market volatility and inform business intelligence strategies.
 Built a regression model to analyze key factors affecting Bitcoin price.
 Integrated statistical findings into a cohesive business intelligence strategy.
