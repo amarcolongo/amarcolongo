@@ -1,6 +1,6 @@
 ###
 
-<img width="1584" height="672" alt="Data analyst banner" src="https://github.com/user-attachments/assets/295cff41-1695-4a18-85f7-302456753798" />
+<img width="1584" height="672" alt="Data analyst banner" src="https://github.com/amarcolongo/amarcolongo/blob/main/Banner%20image.png?raw=true" />
 
 
 
