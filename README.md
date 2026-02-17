@@ -1,6 +1,7 @@
 ###
 
-![Internet not working gif](https://github.com/amarcolongo/amarcolongo/blob/main/babyyoda.gif)
+<img width="1584" height="672" alt="Data analyst banner" src="https://github.com/user-attachments/assets/295cff41-1695-4a18-85f7-302456753798" />
+
 
 
 # ABOUT ME:
