@@ -25,7 +25,7 @@ Deployed models to extract actionable insights from complex qualitative datasets
 **Tools:** TensorFlow 2.0, Python, Natural Language Processing.
 
 ### 📊 [Data Mining & SQL Reporting](https://github.com/amarcolongo/market-analysis)
-**Goal:** Leveraged large-scale data to drive high-level market strategy[cite: 34].
-Performed advanced market analysis to identify trends and growth opportunities[cite: 34].
-Produced SQL-driven reports designed to inform and influence business strategy[cite: 34].
-**Tools:** SQL, Excel, Data Mining[cite: 11, 34].
+**Goal:** Leveraged large-scale data to drive high-level market strategy.
+Performed advanced market analysis to identify trends and growth opportunities.
+Produced SQL-driven reports designed to inform and influence business strategy.
+**Tools:** SQL, Excel, Data Mining.
